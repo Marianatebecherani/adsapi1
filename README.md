@@ -1,4 +1,4 @@
-# adsapi1
+# Byte Benders
 Repositório destinado ao grupo Byte Benders para desenvolvimento da API do primeiro semestre de ADS.
 TESTE DE COMMIT
 
