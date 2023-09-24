@@ -7,7 +7,7 @@
 </p>
 
 # Byte Benders
-Repositório destinado ao grupo Byte Benders para desenvolvimento da API do primeiro semestre de ADS.
+Repositório destinado ao grupo Byte Benders, para desenvolvimento da API do primeiro semestre de ADS.
 
 # 🎯Objetivo do Projeto
 Desenvolver um site que sirva como um curso indicando e ensinando todos os processos e artefatos da metodologia SCRUM. Status do projeto: Em andamento 🏇
