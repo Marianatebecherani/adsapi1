@@ -10,13 +10,13 @@
 Repositório destinado ao grupo Byte Benders, para desenvolvimento da API do primeiro semestre de ADS.
 
 # 🎯Objetivo do Projeto
-Desenvolver um site que sirva como um curso indicando e ensinando todos os processos e artefatos da metodologia SCRUM. Status do projeto: Em andamento 🏇
+Desenvolver um site que sirva como um curso, indicando e ensinando todos os processos e artefatos da metodologia SCRUM. Status do projeto: Em andamento 🏇
 
 # 💡Visão do Sistema
 Para uma equipe que deseja aprender e aperfeiçoar seus conhecimentos em relação às metodologias ágeis utilizando o Scrum.
 
 #  👨🏿‍💻 Metodologia 
-A metodologia utilizada para a criação do protótipo responsivo foi o **Figma**, para o product backlog e o process backlog foi utilizado os conhecimentos e ferramentas do **Product Owner** que serão documentadas abaixo. Para o produto final serão utilizadas as linguagens de programação **Python, HTML e CSS**. E para organização da equipe e do processo foi utilizado como metodologias ágeis o **Scrum**.
+A metodologia utilizada para a criação do protótipo responsivo foi o **Figma**, para o product backlog e o process backlog foi utilizado os conhecimentos e ferramentas do **Product Owner** que serão documentadas abaixo. Para o produto final, serão utilizadas as linguagens de programação **Python, HTML e CSS**. E para organização da equipe e do processo, foi utilizado como metodologias ágeis o **Scrum**.
 
 # 🏆MVP
 1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Em andamento**✏️
